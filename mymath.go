@@ -2,12 +2,6 @@ package mymath
 
 import "math"
 
-//ajhgcFH
-
-func Sum() {
-
-}
-
 func Sqrt(x float64) float64 {
 	return math.Sqrt(x)
 }
